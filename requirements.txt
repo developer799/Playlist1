@@ -3,3 +3,4 @@ Flask-SQLAlchemy==2.5.1
 yt-dlp==2021.12.1
 Werkzeug==2.2.2
 SQLAlchemy==2.0.35
+sqlalchemy==2.0.35
